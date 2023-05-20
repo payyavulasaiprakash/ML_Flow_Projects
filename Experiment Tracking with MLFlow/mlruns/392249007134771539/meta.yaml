@@ -1,0 +1,6 @@
+artifact_location: file:///home/saiprakash-payyavula/Downloads/Experiment%20Tracking%20with%20MLFlow/mlruns/392249007134771539
+creation_time: 1684602805284
+experiment_id: '392249007134771539'
+last_update_time: 1684602805284
+lifecycle_stage: active
+name: mlflow-Ridge-1

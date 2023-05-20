@@ -1,0 +1,16 @@
+artifact_uri: file:///home/saiprakash-payyavula/Downloads/Experiment%20Tracking%20with%20MLFlow/mlruns/641782455911025713/3440431baf82470d8bc2799749694a24/artifacts
+deleted_time: 1684602664632
+end_time: 1684601087342
+entry_point_name: ''
+experiment_id: '641782455911025713'
+lifecycle_stage: deleted
+run_id: 3440431baf82470d8bc2799749694a24
+run_name: alpha_0.02
+run_uuid: 3440431baf82470d8bc2799749694a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684601086038
+status: 3
+tags: []
+user_id: saiprakash-payyavula
